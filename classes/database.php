@@ -15,7 +15,7 @@
 			}
 
 			include($root_dot . "config/database_config.php");
-			$this->db_connection = new mysqli($db_server,$db_user,$db_password,$db_selected);
+			$this->db_connection = new mysqli($db_server,$db_user,$db_password,$db_selected,$db_port);
 
 		}
 
