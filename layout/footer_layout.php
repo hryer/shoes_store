@@ -4,5 +4,5 @@
 
 
 
-    	Copyright © 2017 <a href="#">Kuy Shoes Store</a> | Coded by <a href="https://www.linkedin.com/in/harry-ermawan">Harry Ermawan</a> | Designed by <a href="http://www.babastudio.com" target="_parent">Baba Studio Web Consultant</a>
+    	Copyright © 2016 <a href="#">Kuy Shoes Store</a> | Created by <a href="https://www.linkedin.com/in/harry-ermawan">Harry Ermawan</a> | Project for final exam php native <a href="http://www.babastudio.com" target="_parent">Baba Studio Web Consultant</a>
 

@@ -1,7 +1,7 @@
 <?php
 
    //$base_url="http://babastudio.org/php3/";
-   $base_url="http://shoesstore.loc"; 
+   $base_url="http://shoesstore.loc/"; 
    
    $adminlayoutmodule_url="modules/";
 	
