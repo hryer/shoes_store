@@ -10,7 +10,7 @@
 
   
 
-  <title>Administrator Avaya</title>
+  <title>Administrator Kuy Shoes Store</title>
 
   <link rel="stylesheet" href="<?php echo $base_url; ?>/css/loginstyle.css">
 
@@ -74,7 +74,7 @@
 
     <div class="login">
 
-      <h1>Login to CMS Avaya </h1>
+      <h1>Login to CMS Kuy Shoes Store</h1>
 
       
 
