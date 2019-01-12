@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteRule ^home$ index.php?home [NC,L]
+	RewriteRule ^products$ index.php?products [NC,L]
+	RewriteRule ^about$ index.php?about [NC,L]
+	RewriteRule ^faqs$ index.php?faqs [NC,L]
+	RewriteRule ^contact$ index.php?contact [NC,L]
+	RewriteRule ^productsdetail/([0-9]+)/?$ index.php?detail&shoes_id=$1 [NC,L]
+
+</IfModule>

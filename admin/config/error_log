@@ -1,0 +1,4 @@
+[05-Feb-2014 23:07:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/babaorg/public_html/php3/classes/Login.php:88) in /home/babaorg/public_html/php3/classes/Login.php on line 104
+[05-Feb-2014 23:07:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/babaorg/public_html/php3/classes/Login.php:88) in /home/babaorg/public_html/php3/admin/config/login_process.php on line 11
+[07-Feb-2014 00:14:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/babaorg/public_html/php3/classes/Login.php:88) in /home/babaorg/public_html/php3/classes/Login.php on line 104
+[07-Feb-2014 00:14:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/babaorg/public_html/php3/classes/Login.php:88) in /home/babaorg/public_html/php3/admin/config/login_process.php on line 11

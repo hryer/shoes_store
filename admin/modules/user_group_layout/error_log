@@ -1,0 +1,6 @@
+[05-Feb-2014 23:16:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/admin/modules/user_group_layout/user_group_action.php on line 48
+[05-Feb-2014 23:19:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/admin/modules/user_group_layout/user_group_action.php on line 48
+[07-Feb-2014 00:47:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/admin/modules/user_group_layout/user_group_action.php on line 48
+[07-Feb-2014 03:26:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/admin/modules/user_group_layout/user_group_action.php on line 48
+[07-Feb-2014 07:17:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/admin/modules/user_group_layout/user_group_action.php on line 48
+[10-Feb-2014 05:40:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/admin/modules/user_group_layout/user_group_action.php on line 48

@@ -1,0 +1,35 @@
+[02-Feb-2014 03:01:54] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/babaorg/public_html/php3/config/config.php on line 16
+[02-Feb-2014 03:01:54] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/babaorg/public_html/php3/config/config.php on line 16
+[02-Feb-2014 03:01:54] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/config/config.php on line 24
+[02-Feb-2014 03:01:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babaorg'@'localhost' (using password: NO) in /home/babaorg/public_html/php3/layout/menu_layout.php on line 9
+[02-Feb-2014 03:01:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/babaorg/public_html/php3/layout/menu_layout.php on line 9
+[02-Feb-2014 03:01:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/layout/menu_layout.php on line 11
+[02-Feb-2014 03:01:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babaorg'@'localhost' (using password: NO) in /home/babaorg/public_html/php3/layout/left_side_menu_layout.php on line 8
+[02-Feb-2014 03:01:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/babaorg/public_html/php3/layout/left_side_menu_layout.php on line 8
+[02-Feb-2014 03:01:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/layout/left_side_menu_layout.php on line 10
+[02-Feb-2014 03:01:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babaorg'@'localhost' (using password: NO) in /home/babaorg/public_html/php3/layout/sidebar_box_layout.php on line 6
+[02-Feb-2014 03:01:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/babaorg/public_html/php3/layout/sidebar_box_layout.php on line 6
+[02-Feb-2014 03:01:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/layout/sidebar_box_layout.php on line 8
+[02-Feb-2014 03:01:54] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/babaorg/public_html/php3/config/config.php on line 16
+[02-Feb-2014 03:01:54] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/layout/home_layout.php on line 28
+[02-Feb-2014 03:01:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/layout/home_layout.php on line 29
+[02-Feb-2014 03:01:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/layout/home_layout.php on line 73
+[05-Feb-2014 23:25:35] PHP Fatal error:  Call to undefined function  get_shoes_name() in /home/babaorg/public_html/php3/layout/checkout_layout.php on line 82
+[05-Feb-2014 23:25:45] PHP Fatal error:  Call to undefined function  get_shoes_name() in /home/babaorg/public_html/php3/layout/checkout_layout.php on line 82
+[05-Feb-2014 23:38:28] PHP Fatal error:  Call to undefined function  get_shoes_name() in /home/babaorg/public_html/php3/layout/checkout_layout.php on line 82
+[07-Feb-2014 03:52:09] PHP Fatal error:  Call to undefined function  get_shoes_name() in /home/babaorg/public_html/php3/layout/checkout_layout.php on line 82
+[07-Feb-2014 05:09:59] PHP Fatal error:  Call to undefined function  get_brand() in /home/babaorg/public_html/php3/layout/checkout_layout.php on line 91
+[07-Feb-2014 05:14:49] PHP Fatal error:  Call to undefined function  get_order_total() in /home/babaorg/public_html/php3/layout/checkout_layout.php on line 111
+[07-Feb-2014 05:15:22] PHP Fatal error:  Call to undefined function  get_order_total() in /home/babaorg/public_html/php3/layout/checkout_layout.php on line 111
+[08-Feb-2014 01:29:25] PHP Warning:  include(../asset/crypt/cryptographp.fct.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/babaorg/public_html/php3/layout/regis_member_layout.php on line 3
+[08-Feb-2014 01:29:25] PHP Warning:  include(../asset/crypt/cryptographp.fct.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/babaorg/public_html/php3/layout/regis_member_layout.php on line 3
+[08-Feb-2014 01:29:25] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../asset/crypt/cryptographp.fct.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/babaorg/public_html/php3/layout/regis_member_layout.php on line 3
+[08-Feb-2014 01:30:37] PHP Warning:  include(../asset/crypt/cryptographp.fct.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/babaorg/public_html/php3/layout/regis_member_layout.php on line 3
+[08-Feb-2014 01:30:37] PHP Warning:  include(../asset/crypt/cryptographp.fct.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/babaorg/public_html/php3/layout/regis_member_layout.php on line 3
+[08-Feb-2014 01:30:37] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../asset/crypt/cryptographp.fct.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/babaorg/public_html/php3/layout/regis_member_layout.php on line 3
+[09-Feb-2014 21:10:10] PHP Fatal error:  Call to undefined function  get_detail_products() in /home/babaorg/public_html/php3/index.php on line 103
+[09-Feb-2014 21:10:25] PHP Fatal error:  Call to undefined function  get_detail_products() in /home/babaorg/public_html/php3/index.php on line 103
+[09-Feb-2014 21:22:10] PHP Parse error:  syntax error, unexpected $end in /home/babaorg/public_html/php3/layout/detail_product_layout.php on line 135
+[09-Feb-2014 21:54:58] PHP Parse error:  syntax error, unexpected $end in /home/babaorg/public_html/php3/classes/Cart.php on line 138
+[09-Feb-2014 22:07:36] PHP Parse error:  syntax error, unexpected $end in /home/babaorg/public_html/php3/classes/Cart.php on line 138
+[10-Feb-2014 19:52:00] PHP Fatal error:  Call to undefined function  get_regis_member() in /home/babaorg/public_html/php3/index.php on line 109

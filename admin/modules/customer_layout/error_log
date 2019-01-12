@@ -1,0 +1,55 @@
+[05-Feb-2014 23:15:23] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/classes/Customer.php on line 181
+[05-Feb-2014 23:15:23] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/classes/Customer.php on line 182
+[05-Feb-2014 23:15:23] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 183
+[07-Feb-2014 03:26:38] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/classes/Customer.php on line 181
+[07-Feb-2014 03:26:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/classes/Customer.php on line 182
+[07-Feb-2014 03:26:38] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 183
+[07-Feb-2014 03:26:38] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/classes/Customer.php on line 181
+[07-Feb-2014 03:26:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/classes/Customer.php on line 182
+[07-Feb-2014 03:26:38] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 183
+[07-Feb-2014 22:40:30] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/classes/Customer.php on line 181
+[07-Feb-2014 22:40:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/classes/Customer.php on line 182
+[07-Feb-2014 22:40:30] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 183
+[07-Feb-2014 22:40:30] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/classes/Customer.php on line 181
+[07-Feb-2014 22:40:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/classes/Customer.php on line 182
+[07-Feb-2014 22:40:30] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 183
+[10-Feb-2014 02:08:07] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/classes/Customer.php on line 181
+[10-Feb-2014 02:08:07] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/classes/Customer.php on line 182
+[10-Feb-2014 02:08:07] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 183
+[10-Feb-2014 02:08:08] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/classes/Customer.php on line 181
+[10-Feb-2014 02:08:08] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/classes/Customer.php on line 182
+[10-Feb-2014 02:08:08] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 183
+[10-Feb-2014 05:40:45] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/classes/Customer.php on line 181
+[10-Feb-2014 05:40:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/classes/Customer.php on line 182
+[10-Feb-2014 05:40:45] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 183
+[10-Feb-2014 05:40:47] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/classes/Customer.php on line 181
+[10-Feb-2014 05:40:47] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/classes/Customer.php on line 182
+[10-Feb-2014 05:40:47] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 183
+[10-Feb-2014 05:55:43] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/classes/Customer.php on line 181
+[10-Feb-2014 05:55:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/classes/Customer.php on line 182
+[10-Feb-2014 05:55:43] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 183
+[10-Feb-2014 05:55:44] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/classes/Customer.php on line 181
+[10-Feb-2014 05:55:44] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/classes/Customer.php on line 182
+[10-Feb-2014 05:55:44] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 183
+[10-Feb-2014 05:56:05] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/classes/Customer.php on line 181
+[10-Feb-2014 05:56:05] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/classes/Customer.php on line 182
+[10-Feb-2014 05:56:05] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 183
+[10-Feb-2014 05:56:05] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/classes/Customer.php on line 181
+[10-Feb-2014 05:56:05] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/classes/Customer.php on line 182
+[10-Feb-2014 05:56:05] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 183
+[10-Feb-2014 05:58:33] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/classes/Customer.php on line 181
+[10-Feb-2014 05:58:33] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/classes/Customer.php on line 182
+[10-Feb-2014 05:58:33] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 183
+[10-Feb-2014 05:58:39] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/classes/Customer.php on line 181
+[10-Feb-2014 05:58:39] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/classes/Customer.php on line 182
+[10-Feb-2014 05:58:39] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 183
+[10-Feb-2014 06:07:32] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/classes/Customer.php on line 181
+[10-Feb-2014 06:07:32] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/classes/Customer.php on line 182
+[10-Feb-2014 06:07:32] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 183
+[10-Feb-2014 06:07:33] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/babaorg/public_html/php3/classes/Customer.php on line 181
+[10-Feb-2014 06:07:33] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/babaorg/public_html/php3/classes/Customer.php on line 182
+[10-Feb-2014 06:07:33] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 183
+[10-Feb-2014 06:07:48] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 365
+[10-Feb-2014 06:07:49] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 365
+[10-Feb-2014 06:07:52] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 365
+[10-Feb-2014 06:07:53] PHP Warning:  Division by zero in /home/babaorg/public_html/php3/classes/Customer.php on line 365
